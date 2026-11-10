@@ -1,5 +1,4 @@
 # IND320-screencasts
-# IND320 – Screencasts
 
 Screencasts for the IND320 project work (NMBU, autumn 2026).
 
